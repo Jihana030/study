@@ -11,7 +11,6 @@ function App2(){
         <DarkModeProvider>
             <Header filters={filters} filter={filter} onFilterChange={setFilter}/>
             <TodoList filter={filter}/>
-            <h1>추가해죠</h1>
         </DarkModeProvider>
     )
 }
