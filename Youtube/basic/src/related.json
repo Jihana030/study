@@ -1,0 +1,182 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "N0esS6lbz4BU0qK-vziIytxICZo",
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ShYDPoHPDUz-h8RoimG0xRrzVWU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "c0KYU2j0TM4"
+            },
+            "snippet": {
+                "publishedAt": "2012-03-02T18:32:02Z",
+                "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+                "title": "The power of introverts | Susan Cain",
+                "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nIn a culture where being social and outgoing are prized above all else, it can be difficult, even shameful, to be an introvert. But, as Susan Cain argues in this passionate talk, introverts bring extraordinary talents and abilities to the world, and should be encouraged and celebrated.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/c0KYU2j0TM4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TED",
+                "liveBroadcastContent": "none",
+                "publishTime": "2012-03-02T18:32:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Q-sQ3AVceFZLxlQhbNAryWfn2aE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cFLjudWTuGQ"
+            },
+            "snippet": {
+                "publishedAt": "2014-05-12T21:41:29Z",
+                "channelId": "UCGwuxdEeCf0TIA2RbPOj-8g",
+                "title": "Make Body Language Your Superpower",
+                "description": "Body language, both the speaker's and the audience's, is a powerful form of communication that is difficult to master, especially if the speaker is nervous. This video will teach you how to use your body language effectively, read the audience's body language and what to do when they look bored or disconnected. Use these tools to enhance your nonverbal communication abilities and better connect with your audiences.\nPresented by Stanford graduate students Matt Levy, Colin Bailie, Jeong Joon Ha, and Jennifer Rosenfeld. Created as an exemplary final project in Lecturer JD Schramm's Strategic Communication course. Learn more about communication techniques and best practices on \"Think Fast, Talk Smart: The Podcast.\" https://www.gsb.stanford.edu/insights/think-fast-talk-smart-podcast",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cFLjudWTuGQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cFLjudWTuGQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cFLjudWTuGQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cFLjudWTuGQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cFLjudWTuGQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Stanford Graduate School of Business",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-05-12T21:41:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LcoZYLsv1m8Lu_asbu1oBfaoll4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "W3P3rT0j2gQ"
+            },
+            "snippet": {
+                "publishedAt": "2017-12-19T15:33:07Z",
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "title": "Reading minds through body language | Lynne Franklin | TEDxNaperville",
+                "description": "Can you read someone’s mind by looking at them? Almost. Lynne Franklin teaches you how to connect with 3 types of people by understanding how their bodies communicate. After a boy threatened to kill her with a machete, Lynne Franklin decided to learn everything she could about persuasion. She became a neuroscience nerd, studying how the brain works and how to build rapport with people. She has since worked with organizations to use persuasive communication to increase their performance, productivity, and profit, and published a book about her personal research called Getting Others to Do What You Want. In addition to her marketing and consulting work, Lynne is a member of the National Speakers Association and President-elect of its Illinois chapter.  After a boy threatened to kill her with a machete, Lynne Franklin decided to learn everything she could about persuasion. She became a neuroscience nerd, studying how the brain works and how to build rapport with people. She has since worked with organizations to use persuasive communication to increase their performance, productivity, and profit, and published a book about her personal research called Getting Others to Do What You Want.\n\nIn addition to her marketing and consulting work, Lynne is a member of the National Speakers Association and President-elect of its Illinois chapter. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W3P3rT0j2gQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W3P3rT0j2gQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W3P3rT0j2gQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/W3P3rT0j2gQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/W3P3rT0j2gQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TEDx Talks",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-12-19T15:33:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "47YC8xGU-NcZaCnaRL0be3HdLws",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "w-HYZv6HzAs"
+            },
+            "snippet": {
+                "publishedAt": "2012-01-13T19:42:36Z",
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "title": "The skill of self confidence | Dr. Ivan Joseph | TEDxRyersonU",
+                "description": "Never miss a talk! SUBSCRIBE to the TEDx channel: http://bit.ly/1FAg8hB\n\nAs the Athletic Director and head coach of the Varsity Soccer team at Ryerson University, Dr. Joseph is often asked what skills he is searching for as a recruiter: is it speed? Strength? Agility? In Dr. Joseph's TEDx Talk, he explores self confidence and how it is not just the most important skill in athletics, but in our lives.\n \nIn the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TEDTalks video and live speakers combine to spark deep discussion and connection in a small group. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized.* (*Subject to certain rules and regulations)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w-HYZv6HzAs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w-HYZv6HzAs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w-HYZv6HzAs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/w-HYZv6HzAs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/w-HYZv6HzAs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "TEDx Talks",
+                "liveBroadcastContent": "none",
+                "publishTime": "2012-01-13T19:42:36Z"
+            }
+        }
+    ]
+}
