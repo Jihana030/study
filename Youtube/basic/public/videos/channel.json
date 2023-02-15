@@ -2,7 +2,37 @@
     "kind": "youtube#channelListResponse",
     "etag": "RuuXzTIr0OoDqI4S0RU6n4FqKEM",
     "pageInfo": {
-        "totalResults": 0,
+        "totalResults": 1,
         "resultsPerPage": 5
-    }
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "vXzqU0oVDLdk45QxVthbMCu9y6s",
+            "id": "UCx-KWLTKlB83hDI6UKECtJQ",
+            "snippet": {
+                "title": "HBO Max",
+                "description": "HBO Max is the premium streaming platform that bundles together",
+                "customUrl": "@hbomax",
+                "publishedAt": "2019-07-03T14:47:232",
+                "thumbnails":{
+                    "default": {
+                        "url": "https://yt3.ggpht.com/TxXFMFkDeUN8pDqZ-2WShXiG6lXtpoRG2kfRMg3Nd9g9",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/TxXFMFkDeUN8pDqZ-2WShXiG6lXtpoRG2kfRMg3Nd9g9",
+                        "width": 800,
+                        "height": 800
+                    },
+                    "localized": {
+                        "title": "HBO Max",
+                        "description": "HBO Max is the premium streaming platform that bundles together"
+                    },
+                    "country": "US"
+                }
+            }
+        }
+    ]
 }
