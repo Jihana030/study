@@ -10,7 +10,7 @@ export default class Youtube {
     }
 
     async #searchByKeyword(keyword){
-        return this.apiClient.search()
+        return this.apiClient
         .search({
             params: {
                 part: 'snippet',
